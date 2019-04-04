@@ -1,0 +1,5 @@
+commit 917fe9c83b1337aecb5394051689c59c3747afa5 (HEAD -> logs, origin/master, master)
+Author: unknown <Vaska.Lazarova@students.finki.ukim.mk>
+Date:   Thu Apr 4 10:25:28 2019 +0200
+
+    initial commit
